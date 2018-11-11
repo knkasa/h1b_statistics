@@ -1,1 +1,1 @@
-# Place input file here
+Place input file here
